@@ -41,6 +41,7 @@ See [Venice AI](/providers/venice).
 - [Moonshot AI (Kimi + Kimi Code)](/providers/moonshot)
 - [OpenCode Zen](/providers/opencode)
 - [Amazon Bedrock](/bedrock)
+- [Azure AI Foundry](/providers/azure-foundry)
 - [Z.AI](/providers/zai)
 - [Xiaomi](/providers/xiaomi)
 - [GLM models](/providers/glm)
